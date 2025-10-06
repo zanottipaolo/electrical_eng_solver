@@ -10,4 +10,4 @@
 
 ### Credits 🙋🏻‍♂️
 
-Developed by Paolo Zanotti during 2025 for the Electrical engineering exam
+Developed by Paolo Zanotti for the Electrical engineering exam @ UniBg
